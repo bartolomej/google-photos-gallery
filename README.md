@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Google photos gallery
+
+This is a website that can display photo gallery from a public Google Photos album URL. Just set the environment variable `GOOGLE_PHOTOS_SHARE_URL` to your Google photos public link.
 
 ## Getting Started
 
